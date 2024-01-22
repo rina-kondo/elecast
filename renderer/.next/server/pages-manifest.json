@@ -1,10 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/about": "pages/about.js",
-  "/": "pages/index.js",
-  "/snipet-index": "pages/snipet-index.js",
-  "/initial-props": "pages/initial-props.js",
-  "/detail/[id]": "pages/detail/[id].js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
 }
